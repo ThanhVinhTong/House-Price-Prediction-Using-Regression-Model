@@ -1,4 +1,4 @@
-# House Price Prediction AI
+# House Price Prediction Using Regression Model
 #### A mini project for building a simple House Price Prediction AI 
 
 !!! Prerequisites
